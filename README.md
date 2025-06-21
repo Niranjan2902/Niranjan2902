@@ -63,10 +63,10 @@ Backend Development | Cloud Technologies | DevOps Practices
 - 🔹 **Todo List App (Vite + React + Tailwind)**  
   A simple yet powerful task manager built using React's Context API for state management. Clean UI and blazing-fast performance with Vite.
 
-- 🔹 **[Project Name]**  
-  Description: What it does, why it's cool, and what stack it uses.
+- 🔹 **ONLINE TYPING TEST WEBSITE **  
+  Developed a typing test website that enable users to test their typing skills. The website allows users to type provided lines or phrases within a set time li.
 
-- 🔹 **[Project Name]**  
+- 🔹 **NEWS APP WEBSITE **  
   Description: A project that shows off a key skill, design, or integration.
 
 ---
