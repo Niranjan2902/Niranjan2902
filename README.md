@@ -1,10 +1,6 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 <h3 align="center">Hi there! I'm Niranjan Khavale 👋 – A Passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abc2904&label=Profile%20views&color=0e75b6&style=flat" alt="abc2902" />
-</p>
-
 ---
 
 🌱 **Currently Learning:**  
