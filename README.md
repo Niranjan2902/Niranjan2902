@@ -60,14 +60,17 @@ Backend Development | Cloud Technologies | DevOps Practices
 
 ## 🌟 Featured Projects
 
-- 🔹 **Todo List App (Vite + React + Tailwind)**  
-  A simple yet powerful task manager built using React's Context API for state management. Clean UI and blazing-fast performance with Vite.
+- 🔹 **FULL STACK BLOGGING PLATFORM**  
+  A full-stack blogging platform that allows users to create, edit, and delete blog posts with secure authentication and a rich-text editor.
 
-- 🔹 **ONLINE TYPING TEST WEBSITE **  
+- 🔹 **ONLINE TYPING TEST WEBSITE**  
   Developed a typing test website that enable users to test their typing skills. The website allows users to type provided lines or phrases within a set time li.
 
-- 🔹 **NEWS APP WEBSITE **  
-  Description: A project that shows off a key skill, design, or integration.
+- 🔹 **NEWS WEBSITE APP**  
+  Description: A project that shows off a key skill, design, or integration. Allowing users to read, browse latest news with choice of multiple categories.
+
+  - 🔹 **TODO LIST APP (Vite + React + Tailwind)**  
+  A simple yet powerful task manager built using React's Context API for state management. Clean UI and blazing-fast performance with Vite.
 
 ---
 
