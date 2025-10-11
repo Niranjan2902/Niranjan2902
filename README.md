@@ -69,7 +69,7 @@ Backend Development | Cloud Technologies | DevOps Practices
 - 🔹 **NEWS WEBSITE APP**  
   Description: A project that shows off a key skill, design, or integration. Allowing users to read, browse latest news with choice of multiple categories.
 
-  - 🔹 **TODO LIST APP (Vite + React + Tailwind)**  
+- 🔹 **TODO LIST APP (Vite + React + Tailwind)**  
   A simple yet powerful task manager built using React's Context API for state management. Clean UI and blazing-fast performance with Vite.
 
 ---
