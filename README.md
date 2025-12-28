@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Contact / social badges: update links below -->
   <a href="mailto: niranjankhavale2498@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Abc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/c%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/niranjan-khavale" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
