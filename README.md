@@ -33,18 +33,6 @@
 - 🚀 Currently Learning: Backend Development · Cloud Technologies · DevOps Practices
 - 🤝 Open to collaborating on impactful projects, learning together, and building meaningful digital experiences.
 
-
----
-
-## 🛠️ Core Tags
-<p>
-  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-FFB86B?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Framework-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Stack-MERN-DB6E3D?style=for-the-badge" alt="MERN" />
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-0EA5A4?style=for-the-badge" alt="Developer" />
-</p>
-
 ---
 
 <!-- OPTIONAL: animated GIF banner — host the GIF in your repo for reliability -->
