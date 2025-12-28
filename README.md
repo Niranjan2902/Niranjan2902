@@ -74,17 +74,21 @@ Backend Development | Cloud Technologies | DevOps Practices
 
 ## 🌟 Featured Projects
 
-- 🔹 **FULL STACK BLOGGING PLATFORM**  
-  A full-stack blogging platform that allows users to create, edit, and delete blog posts with secure authentication and a rich-text editor.
+### 🔗 ZipLynk Pro — AI-Powered URL Shortener (SaaS)
+A MERN-based SaaS platform with Free (5 URLs) and Pro (unlimited) tiers, secure JWT authentication, AI-powered traffic summaries using Gemini API, QR code generation, and real-time analytics dashboard.
+**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, qrcode.react
 
-- 🔹 **ONLINE TYPING TEST WEBSITE**  
-  Developed a typing test website that enable users to test their typing skills. The website allows users to type provided lines or phrases within a set time li.
+### 📝 ThinkShare — Full Stack Blogging Platform
+A secure, scalable blogging platform with authentication, rich text editing, protected routes, validated forms, and user dashboards powered by Appwrite.
+**Tech:** React.js, Tailwind CSS, Appwrite, Redux Toolkit, React Router, React Hook Form, TinyMCE
 
-- 🔹 **NEWS WEBSITE APP**  
-  Description: A project that shows off a key skill, design, or integration. Allowing users to read, browse latest news with choice of multiple categories.
+### ⌨️ Online Typing Test Website
+Interactive typing platform to measure speed and accuracy within a time limit, featuring smooth UI and responsive experience.
+**Tech:** HTML, CSS, JavaScript
 
-- 🔹 **TODO LIST APP (Vite + React + Tailwind)**  
-  A simple yet powerful task manager built using React's Context API for state management. Clean UI and blazing-fast performance with Vite.
+### 📰 News Website App
+Dynamic news platform enabling users to browse latest headlines across multiple categories using live API integration.
+**Tech:** React, Vite, Tailwind CSS, News API
 
 ---
 
