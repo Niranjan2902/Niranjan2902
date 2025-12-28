@@ -1,24 +1,56 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
-<h3 align="center">Hi there! I'm Niranjan Khavale 👋 – A Passionate Full Stack Developer from India</h3>
+<h3 align="center">Hi there! I'm <strong>Niranjan Khavale</strong> 👋 — A Passionate Full-Stack / MERN Developer from India</h3>
+
+<p align="center">
+  <!-- Animated typing intro (works well in GitHub README) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2b7a78&width=680&lines=Building+responsive+MERN+apps;APIs+with+secure+authentication;Data-driven+UX+and+scalable+backends" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Contact / social badges: update links below -->
+  <a href="mailto: niranjankhavale2498@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Abc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/niranjan-khavale" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Replace the URLs below with your actual profiles -->
+  <a href="https://instagram.com/niranjan_khavale29" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-🌱 **Currently Learning:**  
-Backend Development | Cloud Technologies | DevOps Practices
+## 🧠 About / Objective
 
-📫 **Reach Me At:**  
-📧 niranjankhavale2498@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/niranjankhavale-a28928232)
+- 💻 Passionate MERN Stack Developer focused on building responsive, user-friendly, and scalable web applications.
+- 🎯 Objective: Secure a MERN role leveraging authentication, APIs & clean code.
+- 🎓 Education: Savitribai Phule Pune University — **BE (IT) | 2020 – 2024**
+- 🚀 Currently Learning: Backend Development · Cloud Technologies · DevOps Practices
+- 🤝 Open to collaborating on impactful projects, learning together, and building meaningful digital experiences.
+
+
+---
+
+## 🛠️ Core Tags
+<p>
+  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-FFB86B?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Framework-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Stack-MERN-DB6E3D?style=for-the-badge" alt="MERN" />
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-0EA5A4?style=for-the-badge" alt="Developer" />
+</p>
 
 ---
 
-## 🧠 About Me
-
-- 💻 I enjoy building full-stack apps with intuitive UIs and efficient backend architectures.  
-- 🌐 I love working on scalable web applications, REST APIs, and seamless user experiences.  
-- ⚙️ Open to collaborating on exciting software projects and learning together.
-
----
+<!-- OPTIONAL: animated GIF banner — host the GIF in your repo for reliability -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-animation.gif" alt="Animated banner" width="900" />
+</p>
 
 # 🚀 Tech Stack
 
