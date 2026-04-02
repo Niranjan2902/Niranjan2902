@@ -27,12 +27,15 @@
 
 ## 🧠 About / Objective
 
-- 💻 Passionate MERN Stack Developer focused on building responsive, user-friendly, and scalable web applications.
-- 🎯 Objective: Secure a MERN role leveraging authentication, APIs & clean code.
-- 🎓 Education: Savitribai Phule Pune University — **BE (IT) | 2020 – 2024**
-- 🚀 Currently Learning: Backend Development · Cloud Technologies · DevOps Practices
-- 🤝 Open to collaborating on impactful projects, learning together, and building meaningful digital experiences.
+💻 MERN Stack Developer focused on building responsive, scalable & user-centric web applications  
 
+🎯 Seeking opportunities to contribute to impactful products using modern web technologies, REST APIs & secure authentication  
+
+🎓 BE in Information Technology — Savitribai Phule Pune University (2020 – 2024)  
+
+🚀 Currently exploring Backend Engineering, Cloud Technologies & DevOps fundamentals  
+
+🤝 Open to collaboration, continuous learning & building meaningful digital solutions
 ---
 
 <!-- OPTIONAL: animated GIF banner — host the GIF in your repo for reliability -->
