@@ -40,9 +40,9 @@
   <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-animation.gif" alt="Animated banner" width="900" />
 </p>
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,26 +50,56 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+</p>
+
+### 🎨 UI & Styling
+<p>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Backend & APIs
+---
+
+### ⚙️ Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-FF6B6B?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-00ADEF?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
 </p>
 
-### Database
+---
+
+### 🗄️ Database & ORM
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
 
-### Programming & Concepts
+---
+
+### 🔌 Integrations & Services
+<p>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FF6B6B?style=for-the-badge&logo=appwrite&logoColor=white" />
+</p>
+
+---
+
+### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+</p>
+
+---
+
+### 💻 Programming & Concepts
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -77,7 +107,9 @@
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=programming&logoColor=white" />
 </p>
 
-### Tools & Misc
+---
+
+### 🛠️ Tools & Development
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -88,9 +120,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Office-2B579A?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
-
----
 
 ## 🌟 Featured Projects
 
